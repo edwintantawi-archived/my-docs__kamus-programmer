@@ -29,3 +29,9 @@
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
    :page_facing_up: &nbsp;&nbsp;: All information is here including Developing and Programming and More...<br/>
    :link: &nbsp;: <a href="https://medium.com/" target="_blank">Link here</a><br/><br/>
+
+6. <b>Codepolitan</b> <br/>
+   :speech_balloon: &nbsp;: Indonesia<br/>
+   :heavy_dollar_sign: &nbsp; &nbsp;: FREE & PAID<br/>
+   :page_facing_up: &nbsp;&nbsp;: Laravel, Svelte, PHP, Android Studio, Bootstap, GIT, Javascript, Docker, Python, MongoDb, Mengenal Pemrogaman Komputer, and More...<br/>
+   :link: &nbsp;: <a href="https://www.codepolitan.com/" target="_blank">Link here</a><br/><br/>

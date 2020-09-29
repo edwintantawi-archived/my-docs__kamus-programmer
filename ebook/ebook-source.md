@@ -14,3 +14,7 @@
    :speech_balloon: &nbsp;: English & Indonesia<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
    :link: &nbsp;: <a href="https://www.petanikode.com/ebook-pemrograman" target="_blank">Link here</a><br/><br/>
+4. <b>Free Tech Books</b> <br/>
+   :speech_balloon: &nbsp;: English<br/>
+   :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
+   :link: &nbsp;: <a href="https://www.freetechbooks.com/" target="_blank">Link here</a><br/><br/>

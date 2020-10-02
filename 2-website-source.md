@@ -87,3 +87,15 @@
     :heavy_dollar_sign: &nbsp; &nbsp;: FREE & PAID<br/>
     :page_facing_up: &nbsp;&nbsp;: Laravel, Svelte, PHP, Android Studio, Bootstap, GIT, Javascript, Docker, Python, MongoDb, Mengenal Pemrogaman Komputer, and More...<br/>
     :link: &nbsp;: <a href="https://www.codepolitan.com/" target="_blank">Link here</a><br/><br/>
+14. <b>W3School</b> <br/>
+    :speech_balloon: &nbsp;: English<br/>
+    :office: &nbsp;: Online<br/>
+    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
+    :page_facing_up: &nbsp;&nbsp;: HTML, CSS, Javascript, PHP, SQL, C++, C#, Python, XML, Bootstrap, and More...<br/>
+    :link: &nbsp;: <a href="https://www.w3schools.com/" target="_blank">Link here</a><br/><br/>
+15. <b>Mozila Developer Network [MDN]</b> <br/>
+    :speech_balloon: &nbsp;: English<br/>
+    :office: &nbsp;: Online<br/>
+    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
+    :page_facing_up: &nbsp;&nbsp;: HTML, CSS, Javascript, HTTP, API, DOM, MathML and More...<br/>
+    :link: &nbsp;: <a href="https://developer.mozilla.org" target="_blank">Link here</a><br/><br/>

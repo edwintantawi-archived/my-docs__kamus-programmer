@@ -29,3 +29,8 @@
    :speech_balloon: &nbsp;: Indonesia<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: PAID<br/>
    :link: &nbsp;: <a href="https://www.duniailkom.com/" target="_blank">Link here</a><br/><br/>
+   
+7. <b>Library Genesis</b> <br/>
+   :speech_balloon: &nbsp;: English<br/>
+   :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
+   :link: &nbsp;: <a href="http://libgen.rs/" target="_blank">Link here</a><br/><br/>

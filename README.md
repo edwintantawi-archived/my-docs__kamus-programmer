@@ -17,7 +17,7 @@ di sini: <a href="https://github.com/edwintantawi/kamus-programmer/blob/master/2
 Kumpulan tempat mencari channel Youtube belajar programming, tersedia detail materi yang tersedia, tersedia bahasa apa yang tersedia beserta link nya <br/><br/>
 di sini: <a href="https://github.com/edwintantawi/kamus-programmer/blob/master/3-youtube-source.md">link</a>
 
-## UseFull Website for Design and Dvelopment
+## UseFull Services for Design and Developments
 
 Kumpulan tempat mencari website / layanan yang berguna untuk mempermudah proses Design atau Development kita, tersedia beserta link nya <br/><br/>
 di sini: <a href="https://github.com/edwintantawi/kamus-programmer/blob/master/4-usefull-services-source.md">link</a>

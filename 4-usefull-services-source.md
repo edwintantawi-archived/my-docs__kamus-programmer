@@ -30,3 +30,13 @@
 10. <b>Unsplash</b> <br/>
     :page_facing_up: &nbsp;&nbsp;: The internet’s source of freely-usable images.<br/>
     :link: &nbsp;: <a href="https://unsplash.com/" target="_blank">Link here</a><br/><br/>
+11. <b>Spline</b> <br/>
+    :page_facing_up: &nbsp;&nbsp;: Free Design tools for 3D objects and animations.<br/>
+    :link: &nbsp;: <a href="https://spline.design/" target="_blank">Link here</a><br/><br/>
+12. <b>Headlime</b> <br/>
+    :page_facing_up: &nbsp;&nbsp;: Writing effective marketing copy can be tough or time consuming. Headlime uses artificial intelligence and templates to make writing faster and easier.<br/>
+    :link: &nbsp;: <a href="https://headlime.com/" target="_blank">Link here</a><br/><br/>
+13. <b>FlowMapp</b> <br/>
+    :page_facing_up: &nbsp;&nbsp;:Design exceptional UX for beautiful products, websites, and apps
+with the online collaborative tools..<br/>
+    :link: &nbsp;: <a href="https://www.flowmapp.com/" target="_blank">Link here</a><br/><br/>

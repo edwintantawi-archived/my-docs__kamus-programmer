@@ -1,6 +1,6 @@
 :blue_book: Kumpulan eBook
 
-1. <b>My Google Drive e-book</b> <br/>
+1. <b>Google Drive e-book (My Google Drive)</b> <br/>
    :speech_balloon: &nbsp;: English & Indonesia<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
    :link: &nbsp;: <a href="https://drive.google.com/folderview?id=1rjziJuE_BK56UzK5x5slegSkQMmW7spD" target="_blank">Link here</a><br/><br/>
@@ -19,7 +19,6 @@
    :speech_balloon: &nbsp;: English & Indonesia<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
    :link: &nbsp;: <a href="https://www.petanikode.com/ebook-pemrograman" target="_blank">Link here</a><br/><br/>
-   
 5. <b>Free Tech Books</b> <br/>
    :speech_balloon: &nbsp;: English<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>
@@ -34,7 +33,6 @@
    :speech_balloon: &nbsp;: Indonesia<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: PAID<br/>
    :link: &nbsp;: <a href="https://www.duniailkom.com/" target="_blank">Link here</a><br/><br/>
-   
 8. <b>Library Genesis</b> <br/>
    :speech_balloon: &nbsp;: English<br/>
    :heavy_dollar_sign: &nbsp; &nbsp;: FREE<br/>

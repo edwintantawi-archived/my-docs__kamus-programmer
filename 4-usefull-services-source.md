@@ -37,6 +37,12 @@
     :page_facing_up: &nbsp;&nbsp;: Writing effective marketing copy can be tough or time consuming. Headlime uses artificial intelligence and templates to make writing faster and easier.<br/>
     :link: &nbsp;: <a href="https://headlime.com/" target="_blank">Link here</a><br/><br/>
 13. <b>FlowMapp</b> <br/>
-    :page_facing_up: &nbsp;&nbsp;:Design exceptional UX for beautiful products, websites, and apps
-with the online collaborative tools..<br/>
+    :page_facing_up: &nbsp;&nbsp;: Design exceptional UX for beautiful products, websites, and apps
+    with the online collaborative tools..<br/>
     :link: &nbsp;: <a href="https://www.flowmapp.com/" target="_blank">Link here</a><br/><br/>
+14. <b>Lottiefiles</b> <br/>
+    :page_facing_up: &nbsp;&nbsp;: The Future of Animation and Interactive Design is here...<br/>
+    :link: &nbsp;: <a href="https://lottiefiles.com/" target="_blank">Link here</a><br/><br/>
+15. <b>Venngage</b> <br/>
+    :page_facing_up: &nbsp;&nbsp;: Make Infographics That People Love...<br/>
+    :link: &nbsp;: <a href="https://venngage.com/" target="_blank">Link here</a><br/><br/>
